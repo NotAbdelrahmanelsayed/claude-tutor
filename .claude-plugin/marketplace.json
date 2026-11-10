@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "kirilxd-plugins",
+  "name": "personal-forks",
   "owner": {
-    "name": "kirilxd"
+    "name": "NotAbdelrahmanelsayed"
   },
   "plugins": [
     {
       "name": "claude-tutor",
-      "source": {"source": "github", "repo": "kirilxd/claude-tutor"},
+      "source": {"source": "github", "repo": "NotAbdelrahmanelsayed/claude-tutor"},
       "description": "Interactive learning companion — plans, quizzes, spaced repetition, web dashboard"
     }
   ]
